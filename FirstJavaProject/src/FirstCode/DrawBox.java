@@ -4,7 +4,7 @@ public class DrawBox {
 		for(int i=1;i<4;i++) {
 			box();
 		}
-		int i = 1;
+		int i = 1; //fix condition
 		while(0<i && i<4) {
 			box();
 			i++;
